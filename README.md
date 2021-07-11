@@ -19,7 +19,9 @@
     <li>CSS</li>
     <li>JavaScript</li>
     <li>Github</li>
+    <li>MySQL</li>
     <li>Metodologias ágeis</li>
+    
 </ul>
 </div>
     
