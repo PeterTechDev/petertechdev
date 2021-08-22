@@ -20,6 +20,7 @@
     <li>JavaScript</li>
     <li>Github</li>
     <li>MySQL</li>
+    <li>Java</li>
     <li>Metodologias ágeis</li>
     
 </ul>
