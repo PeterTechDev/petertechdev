@@ -25,6 +25,7 @@
     
 </ul>
 </div>
+<br/>[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=petertechdev&count_private=true&count_private=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     
 <hr>
 
