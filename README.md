@@ -19,6 +19,9 @@
     <li>CSS</li>
     <li>JavaScript</li>
     <li>Github</li>
+    <li>Jquery</li>
+    <li>Bootstrap</li>
+    <li>React</li>
     <li>MySQL</li>
     <li>Java</li>
     <li>Metodologias ágeis</li>
