@@ -1,7 +1,7 @@
 <h1>Hi there! Eu sou o Peter!👋</h1>
 <br>
 <p> 
-    Tenho 27 anos, sou do Espirito Santo, Brasil. 
+    Tenho 28 anos, sou do Espirito Santo, Brasil. 
     <br>
     <br>
     No momento estou me qualificando para me tornar um Desenvolvedor Full Stack.
