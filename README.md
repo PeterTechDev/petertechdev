@@ -1,6 +1,6 @@
 <h1>Hi there! Eu sou o Peter!👋</h1>
 <br>
-<p>
+<p> 
     Tenho 27 anos, sou do Espirito Santo, Brasil. 
     <br>
     <br>
