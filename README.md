@@ -4,7 +4,7 @@
     Tenho 28 anos, sou do Espirito Santo, Brasil. 
     <br>
     <br>
-    No momento estou me qualificando para me tornar um Desenvolvedor Full Stack.
+    No momento estou me qualificando para me tornar um Desenvolvedor Full Stack, mas meu foco maior é no frontend. 
     <br>
     <br>
     Sou bolsista no projeto <a href="https://www.youtube.com/watch?v=q_-P92HI1rg&t=40s" target="_blank" rel="noopener noreferrer">Certified Tech Developer</a> em tempo integral. 
@@ -38,4 +38,5 @@
   <a href="https://instagram.com/peter.leite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:peterleite.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/peter-leite-6b4754202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
