@@ -15,17 +15,8 @@
 <div align="left">
 <h2>Atualmente estou estudando:</h2>
 <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Github</li>
-    <li>Jquery</li>
-    <li>Bootstrap</li>
-    <li>React</li>
-    <li>MySQL</li>
-    <li>Java</li>
-    <li>Metodologias ágeis</li>
-    
+    <li>AWS</li>
+
 </ul>
 </div>
     
