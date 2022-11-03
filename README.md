@@ -23,7 +23,7 @@
 <hr>
 
 <h2>Entre em contato!</h2>
-<p>Ainda estou no início desta jornada e ficaria muito grato se você pudesse deixar alguma dica ou feedback nos meus códigos do github ou nas redes sociais abaixo.</p>
+<p>Eu ficaria muito grato se você pudesse deixar alguma dica ou feedback nos meus códigos do github ou nas redes sociais abaixo.</p>
 
 
   <a href="https://instagram.com/peter.leite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
