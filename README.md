@@ -16,6 +16,7 @@
 <h2>Atualmente estou estudando:</h2>
 <ul>
     <li>AWS</li>
+    <li>Docker</li>
 
 </ul>
 </div>
