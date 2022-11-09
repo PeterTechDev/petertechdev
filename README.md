@@ -17,6 +17,8 @@
 <ul>
     <li>AWS</li>
     <li>Docker</li>
+    <li>Java</li>
+    <li>Springboot</li>
 
 </ul>
 </div>
