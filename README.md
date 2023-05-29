@@ -15,10 +15,10 @@
 <div align="left">
 <h2>Atualmente estou estudando:</h2>
 <ul>
-    <li>AWS</li>
+    <li>Azure</li>
     <li>Docker</li>
-    <li>Java</li>
-    <li>Springboot</li>
+    <li>Angular</li>
+    <li>Typescript</li>
 
 </ul>
 </div>
