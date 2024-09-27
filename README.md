@@ -13,17 +13,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3l5yJWhnbw5yyqDcQg/giphy.gif" width="400px" />
 <div align="left">
-<h2>Atualmente estou estudando:</h2>
-<ul>
-    <li>Azure</li>
-    <li>Docker</li>
-    <li>Angular</li>
-    <li>Typescript</li>
 
-</ul>
-</div>
-    
-<hr>
 
 <h2>Entre em contato!</h2>
 <p>Eu ficaria muito grato se você pudesse deixar alguma dica ou feedback nos meus códigos do github ou nas redes sociais abaixo.</p>
