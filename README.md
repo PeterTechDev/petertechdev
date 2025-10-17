@@ -1,26 +1,62 @@
-<h1>Hi there! Eu sou o Peter!👋</h1>
-<br>
-<p> 
-    Tenho 30 anos, sou do Espirito Santo, Brasil. 
-    <br>
-    <br>
-    No momento estou me qualificando para me tornar um Desenvolvedor Full Stack, mas meu foco maior é no frontend. 
-    <br>
-    <br>
-    Sou bolsista no projeto <a href="https://www.youtube.com/watch?v=q_-P92HI1rg&t=40s" target="_blank" rel="noopener noreferrer">Certified Tech Developer</a> em tempo integral. 
-</p>
-<br>
+# 👋 Hey there, I'm Peter Souza
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3l5yJWhnbw5yyqDcQg/giphy.gif" width="400px" />
-<div align="left">
+🎯 **Software Developer in Test (SDET)** | **QA Automation Engineer**  
+🇧🇷 Based in Brazil | 🌎 Working remotely  
+💡 Passionate about **quality, automation, and learning**
 
+---
 
-<h2>Entre em contato!</h2>
-<p>Eu ficaria muito grato se você pudesse deixar alguma dica ou feedback nos meus códigos do github ou nas redes sociais abaixo.</p>
+## 🧠 About Me
 
+I'm a **QA Engineer / SDET** focused on building reliable and scalable automation frameworks.  
+Currently, I'm working at **NDG Communications**, where I design and maintain Playwright-based testing frameworks across multiple web applications.  
 
-  <a href="https://instagram.com/peter.leite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:peterleite.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/peter-leite-6b4754202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+My professional journey bridges **frontend development**, **test automation**, and **AI-driven QA innovation** — always driven by the belief that quality is not just a phase, but a mindset.  
 
+Outside of work, I'm a husband, proud father, and a lifelong learner building the future step by step.  
 
+---
+
+## ⚙️ Tech Stack & Tools
+
+**Languages:**  
+`TypeScript` · `JavaScript` · `Python` · `C#`  
+
+**Frameworks & Testing:**  
+`Playwright` · `Jest` · `Cypress` · `React` · `Next.js`  
+
+**QA & DevOps:**  
+`GitHub Actions` · `CI/CD` · `Postman` · `REST APIs` · `TestRail`  
+
+**Others:**  
+`Notion` · `Confluence` · `Jira` · `Styled-components`  
+
+---
+
+## 🚀 Featured Projects
+
+- 🏀 **[My NBA Feed](https://github.com/petertechdev/my-nba-feed)** – Personalized NBA dashboard built with React & TypeScript  
+- ✅ **[Did I Did It](https://github.com/petertechdev/did-i-did-it)** – Daily habit tracker with a minimal UI and local storage persistence  
+- 🧪 **Automation Framework (NDG)** – Custom Playwright + TypeScript framework for multi-client web platforms  
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 **AI for QA** (LangChain, Prompt Engineering, LLM-based testing)  
+- 🧩 **Advanced Playwright fixtures & modular frameworks**  
+- 🇺🇸 **Improving my English communication**  
+
+---
+
+## 💬 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/petertechdev)  
+- 🧑‍💻 [GitHub](https://github.com/petertechdev)  
+- ✉️ [peterleite.dev@gmail.com](mailto:peterleite.dev@gmail.com)
+
+---
+
+> *“Quality means doing it right when no one is looking.”* – Henry Ford  
+>  
+> Building quality. One test, one project, one day at a time.
