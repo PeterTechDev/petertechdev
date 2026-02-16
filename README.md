@@ -1,62 +1,67 @@
-# 👋 Hey there, I'm Peter Souza
+# Peter Souza
 
-🎯 **Software Developer in Test (SDET)** | **QA Automation Engineer**  
-🇧🇷 Based in Brazil | 🌎 Working remotely  
-💡 Passionate about **quality, automation, and learning**
+**SDET by day. AI builder by night.**
 
----
+I build test automation frameworks at [NDG Communications](https://ndg.agency) and ship AI-powered products on the side. Currently building a multi-agent WhatsApp system that sells cars while humans sleep.
 
-## 🧠 About Me
-
-I'm a **QA Engineer / SDET** focused on building reliable and scalable automation frameworks.  
-Currently, I'm working at **NDG Communications**, where I design and maintain Playwright-based testing frameworks across multiple web applications.  
-
-My professional journey bridges **frontend development**, **test automation**, and **AI-driven QA innovation** — always driven by the belief that quality is not just a phase, but a mindset.  
-
-Outside of work, I'm a husband, proud father, and a lifelong learner building the future step by step.  
+Based in Brazil 🇧🇷 · Working toward relocation 🌍
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🔨 Currently Building
 
-**Languages:**  
-`TypeScript` · `JavaScript` · `Python` · `C#`  
+**[AutoVendas](https://auto-vendas.vercel.app)** — AI-powered WhatsApp multi-agent system for Brazilian car dealerships. Handles lead qualification, inventory questions, and financing — all through conversational AI.
+`Supabase` `Twilio` `OpenAI` `Vercel` `TypeScript`
 
-**Frameworks & Testing:**  
-`Playwright` · `Jest` · `Cypress` · `React` · `Next.js`  
-
-**QA & DevOps:**  
-`GitHub Actions` · `CI/CD` · `Postman` · `REST APIs` · `TestRail`  
-
-**Others:**  
-`Notion` · `Confluence` · `Jira` · `Styled-components`  
+**[petersouza.dev](https://petersouza.dev)** — Personal brand hub with 5 interactive themes, including a 3D experience built with Three.js.
+`Next.js` `Three.js` `Tailwind` `Cloudflare`
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
 
-- 🏀 **[My NBA Feed](https://github.com/petertechdev/my-nba-feed)** – Personalized NBA dashboard built with React & TypeScript  
-- ✅ **[Did I Did It](https://github.com/petertechdev/did-i-did-it)** – Daily habit tracker with a minimal UI and local storage persistence  
-- 🧪 **Automation Framework (NDG)** – Custom Playwright + TypeScript framework for multi-client web platforms  
-
----
-
-## 📚 Currently Learning
-
-- 🤖 **AI for QA** (LangChain, Prompt Engineering, LLM-based testing)  
-- 🧩 **Advanced Playwright fixtures & modular frameworks**  
-- 🇺🇸 **Improving my English communication**  
-
----
-
-## 💬 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/petertechdev)  
-- 🧑‍💻 [GitHub](https://github.com/petertechdev)  
-- ✉️ [peterleite.dev@gmail.com](mailto:peterleite.dev@gmail.com)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
-> *“Quality means doing it right when no one is looking.”* – Henry Ford  
->  
-> Building quality. One test, one project, one day at a time.
+## 🚀 Projects
+
+| Project | What it does |
+|---------|-------------|
+| [**AutoVendas**](https://auto-vendas.vercel.app) | AI WhatsApp CRM for car dealerships |
+| [**petersouza.dev**](https://petersouza.dev) | Personal site with 5 interactive themes |
+| [**My NBA Feed**](https://github.com/petertechdev/my-nba-feed) | Live scores, standings & Reddit-powered social feed |
+| [**Átrias Wiki**](https://github.com/petertechdev/atrias-wiki) | D&D world wiki — 176 entities, 7 continents, AI narrator |
+| [**Win the Day**](https://win-the-day-three.vercel.app) | Productivity app built on focused intensity |
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=petertechdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petertechdev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## ⚡ The Setup
+
+I run an 8-agent AI squad ([OpenClaw](https://openclaw.com)) that handles everything from code reviews to content strategy. The agents have names, personalities, and a delivery pipeline stricter than most teams I've worked on.
+
+---
+
+<p align="center">
+  <a href="https://petersouza.dev">🌐 petersouza.dev</a> ·
+  <a href="https://www.linkedin.com/in/petertechdev">LinkedIn</a> ·
+  <a href="mailto:peterleite.dev@gmail.com">Email</a>
+</p>
