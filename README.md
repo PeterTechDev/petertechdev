@@ -34,7 +34,6 @@ Based in Brazil 🇧🇷 · Working toward relocation 🌍
 
 | Project | What it does |
 |---------|-------------|
-| [**AutoVendas**](https://auto-vendas.vercel.app) | AI WhatsApp CRM for car dealerships |
 | [**petersouza.dev**](https://petersouza.dev) | Personal site with 5 interactive themes |
 | [**My NBA Feed**](https://github.com/petertechdev/my-nba-feed) | Live scores, standings & Reddit-powered social feed |
 | [**Átrias Wiki**](https://github.com/petertechdev/atrias-wiki) | D&D world wiki — 176 entities, 7 continents, AI narrator |
