@@ -51,12 +51,6 @@ Based in Brazil 🇧🇷 · Working toward relocation 🌍
 
 ---
 
-## ⚡ The Setup
-
-I run an 8-agent AI squad ([OpenClaw](https://openclaw.com)) that handles everything from code reviews to content strategy. The agents have names, personalities, and a delivery pipeline stricter than most teams I've worked on.
-
----
-
 <p align="center">
   <a href="https://petersouza.dev">🌐 petersouza.dev</a> ·
   <a href="https://www.linkedin.com/in/petertechdev">LinkedIn</a> ·
