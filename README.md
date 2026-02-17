@@ -2,16 +2,13 @@
 
 **SDET by day. AI builder by night.**
 
-I build test automation frameworks at [NDG Communications](https://ndg.agency) and ship AI-powered products on the side. Currently building a multi-agent WhatsApp system that sells cars while humans sleep.
+I build test automation frameworks at [NDG Communications](https://www.ndgcommunications.com/) and ship AI-powered products on the side. Currently building a multi-agent WhatsApp system that sells cars while humans sleep.
 
 Based in Brazil 🇧🇷 · Working toward relocation 🌍
 
 ---
 
 ## 🔨 Currently Building
-
-**[AutoVendas](https://auto-vendas.vercel.app)** — AI-powered WhatsApp multi-agent system for Brazilian car dealerships. Handles lead qualification, inventory questions, and financing — all through conversational AI.
-`Supabase` `Twilio` `OpenAI` `Vercel` `TypeScript`
 
 **[petersouza.dev](https://petersouza.dev)** — Personal brand hub with 5 interactive themes, including a 3D experience built with Three.js.
 `Next.js` `Three.js` `Tailwind` `Cloudflare`
