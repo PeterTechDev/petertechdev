@@ -45,8 +45,8 @@ Based in Brazil 🇧🇷 · Working toward relocation 🌍
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterTechDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterTechDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://streak-stats.demolab.com?user=PeterTechDev&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterTechDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="165" />
 </p>
 
 ---
