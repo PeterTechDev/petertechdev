@@ -1,44 +1,67 @@
 # Peter Souza
 
-**SDET by day. AI builder by night.**
+**Senior SDET. I build AI agents that test software.**
 
-I build test automation frameworks at [NDG Communications](https://www.ndgcommunications.com/) and ship AI-powered products on the side. Currently building a multi-agent WhatsApp system that sells cars while humans sleep.
+Test automation frameworks by day at [NDG Communications](https://www.ndgcommunications.com/). Multi-agent AI products on the side. 5+ years standing up Playwright / Cypress / Selenium suites from scratch, with a recent focus on putting LLMs inside the test loop.
 
-Based in Brazil 🇧🇷 · Working toward relocation 🌍
+Based in Brazil 🇧🇷 · Working toward remote roles in the US/EU 🌍
 
 ---
 
-## 🔨 Currently Building
+## 🧪 SDET work
 
-**[AutoVendas](https://auto-vendas.vercel.app)** — B2B SaaS for Brazilian car dealerships. AI agents handle WhatsApp leads 24/7 — qualifying buyers, answering inventory questions, and routing to salespeople. Built with multi-agent orchestration on top of OpenAI + Twilio + Supabase.
+Most production test work is closed-source. Open-source distillations:
+
+- **[playwright-ai-test-generator](https://github.com/PeterTechDev/playwright-ai-test-generator)** — LangChain agent that turns a user story + URL into a runnable Playwright spec. Pulled out of two production RAG agents I shipped at WTEC Energy.
+- **[sdet-playbook](https://github.com/PeterTechDev/sdet-playbook)** — production-grade Playwright + TypeScript reference framework. POM, sharded CI (4x parallel ~5 min), API + UI + a11y tests, auth fixtures, typed REST client. Forkable.
+
+Track record:
+- Lifted coverage to **92% (JaCoCo)** across 14+ microservices at CI&T
+- Cut production bugs **35%** at WTEC Energy with a from-scratch Cypress + Playwright framework
+- Resolved **100+ production incidents** via Dynatrace (root cause, runbooks, post-mortems)
+- Built NDG's first Playwright + TypeScript framework — 0% → 65% critical-path coverage in 6 months
+
+---
+
+## 🤖 AI work
+
+**[AutoVendas](https://auto-vendas.vercel.app)** — B2B SaaS for Brazilian car dealerships. AI agents handle WhatsApp leads 24/7 — qualifying buyers, answering inventory questions, routing to salespeople. Multi-agent orchestration on top of OpenAI + Twilio + Supabase.
 `Next.js` `OpenAI` `Twilio` `Supabase` `TypeScript`
 
+Two production RAG agents shipped at WTEC Energy (closed-source): an auto-test-generator and a Jira task-standardization agent. Cut manual QA effort 20%.
+
 ---
 
-## 🛠 Tech Stack
+## 🛠 Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+Test stack: Playwright, Cypress, Selenium, Appium, Jest, JUnit, REST Assured, Postman, K6, JMeter, Dynatrace, New Relic, Cucumber, Gherkin, Zephyr, Bitbucket Pipelines, Jenkins, Azure DevOps.
 
 ---
 
-## 🚀 Projects
+## 🚀 Side projects
 
 | Project | What it does |
 |---------|-------------|
 | [**petersouza.dev**](https://petersouza.dev) | Personal brand hub — 5 interactive themes, AI agents showcase, case studies |
-| [**My NBA Feed**](https://my-nba-feed.vercel.app) | NBA dashboard with live scores, standings & Reddit feed — no ads, no algorithm |
 | [**Átrias Wiki**](https://atrias-wiki.vercel.app) | AI-powered wiki for a 7-year D&D campaign — voice-to-wiki pipeline, 176 entities, RAG search |
 | [**Whisperbox**](https://github.com/PeterTechDev/whisperbox) | Local audio/video transcription via Whisper AI — no API costs, data stays private |
-| [**Win the Day**](https://win-the-day-three.vercel.app) | Productivity app built on the Focused Intensity framework |
+| [**My NBA Feed**](https://my-nba-feed.vercel.app) | NBA dashboard with live scores, standings & Reddit feed — no ads, no algorithm |
 
 ---
 
@@ -50,6 +73,10 @@ Based in Brazil 🇧🇷 · Working toward relocation 🌍
 </p>
 
 ---
+
+## 💼 Open to roles
+
+Senior SDET · QA Engineer · AI-Augmented QA · Test Architect — remote, US/EU timezones.
 
 <p align="center">
   <a href="https://petersouza.dev">🌐 petersouza.dev</a> ·
